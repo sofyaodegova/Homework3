@@ -1,4 +1,4 @@
-package MainHomework3;
+package task3;
 
 public class StrangeAmount {
     public static void main(String[] args) {
@@ -18,7 +18,7 @@ public class StrangeAmount {
             }
         }
         System.out.println("Сумма четных чисел = " + dividedAmount);
-int total = (oddAmount - dividedAmount);
+        int total = (oddAmount - dividedAmount);
         System.out.println("Сумма чисел в диапазоне [1 ; 100], если четные числа отрицательные, а нечетные -" +
                 " положительные = " + total);
     }
