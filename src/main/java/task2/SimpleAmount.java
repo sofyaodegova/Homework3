@@ -1,6 +1,6 @@
 package task2;
 
-public class SampleAmount {
+public class SimpleAmount {
     public static void main(String[] args) {
 
         int start = 1;

@@ -18,6 +18,7 @@ public class StrangeAmount {
             }
         }
         System.out.println("Сумма четных чисел = " + dividedAmount);
+
         int total = (oddAmount - dividedAmount);
         System.out.println("Сумма чисел в диапазоне [1 ; 100], если четные числа отрицательные, а нечетные -" +
                 " положительные = " + total);
