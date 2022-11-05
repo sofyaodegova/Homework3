@@ -1,4 +1,4 @@
-package task2;
+package MainHomework3.task2;
 
 public class SimpleAmount {
     public static void main(String[] args) {

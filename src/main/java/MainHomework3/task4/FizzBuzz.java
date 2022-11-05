@@ -1,4 +1,4 @@
-package task4;
+package MainHomework3.task4;
 
 public class FizzBuzz {
     public static void main(String[] args) {

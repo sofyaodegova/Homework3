@@ -1,4 +1,4 @@
-package task6;
+package MainHomework3.task6;
 
 public class StocksOfGrechka {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package task3;
+package MainHomework3.task3;
 
 public class StrangeAmountRecTrying {
     public static void main(String[] args) {

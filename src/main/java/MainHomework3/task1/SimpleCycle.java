@@ -1,4 +1,4 @@
-package task1;
+package MainHomework3.task1;
 
 public class SimpleCycle {
     public static void main(String[] args) {
