@@ -7,7 +7,6 @@ public class MultiplicationTable2 {
                 System.out.print(i * a + " ");
             }
             System.out.println();
-            int a = 1;
         }
     }
 }
